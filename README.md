@@ -1,0 +1,2 @@
+# RssClient
+Курсовая (Стучилин). WindowsForms
